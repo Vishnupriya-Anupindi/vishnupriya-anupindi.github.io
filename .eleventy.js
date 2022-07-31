@@ -2,7 +2,7 @@ const markdownIt = require("markdown-it");
 const { DateTime } = require("luxon");
 const pageAssetsPlugin = require('eleventy-plugin-page-assets');
 
-const pathPrefix = 'https://vishnupriya-anupindi.github.io'
+const pathPrefix = 'https:////vishnupriya-anupindi.github.io'
 
 module.exports = (config) => {
   
