@@ -2,6 +2,7 @@
 
 Welcome to the most minimal stack out there. This stack makes static site generation a breeze.
 
+
 ## 🧰 Tools
 
 This project uses the following frameworks:
