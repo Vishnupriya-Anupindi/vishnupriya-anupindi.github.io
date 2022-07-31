@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/main.bundle.css' | url }}">
+  <link rel="stylesheet" type="text/css" href="{{ '/assets/prism.css' | url }}"></script>
+  <link  rel="stylesheet" type="text/css" href="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.css">
+
+  <script src="{{ '/assets/main.bundle.js' | url }}" defer></script>
+  <script src="{{ '/assets/prism.js' | url }}"></script>
+  <script src="https://cdn.jsdelivr.net/npm/markdown-it/dist/markdown-it.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/katex/dist/katex.min.js"></script>
+  
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Quattrocento:wght@400;700&display=swap" rel="stylesheet"> 
+
+  <title>{{ title }} | {{ config.name }}</title>
+</head>
+<body class="{{ 'debug-screens' if env.devMode }} 
+container mx-auto min-h-screen bg-cover" 
+style="background-image: url({{ '/assets/RV_blur.jpg' | url }})">
+      <div class="max-w-4xl bg-white mx-auto min-h-screen">
+      {% include 'header.njk' %}
+
+      <div class="max-w-4xl container py-4 pb-8 px-4">
+      {% block body %}
+        {{ content | safe }}
+      {% endblock %}
+      </div>
+      </div>
+</body>
+
+</html>
