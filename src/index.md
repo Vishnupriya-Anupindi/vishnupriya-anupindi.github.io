@@ -22,6 +22,7 @@ My other research interests include:
 - Finite fields,
 - Uniform distribution and number theoretic problems in Quasi Monte Carlo methods.
 
+I also enjoy teaching.
 
 ## Contact
 
