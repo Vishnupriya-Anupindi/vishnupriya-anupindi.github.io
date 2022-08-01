@@ -23,4 +23,4 @@ layout: markdown
 
 ![](conference_nmv.jpg)
 
-Group photo with the participants of Workshop on Integer Partitions at the Nesin Mathematics Village, Turkey.
+Group photo with the participants of <a href="https://nesinkoyleri.org/en/events/2022-summer-school-in-theory-of-partitions/" target="_blank">Workshop on Integer Partitions</a> at the Nesin Mathematics Village, Turkey.
