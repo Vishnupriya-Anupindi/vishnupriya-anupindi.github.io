@@ -8,7 +8,7 @@ layout: markdown
 
 ## Upcoming conferences
 
-- [Women in Numbers - 4](https://women-in-numbers-europe-4.sites.uu.nl/project-groups/), Project Group: Abstract Groups in Cryptography, Utrecht University, Netherlands.  
+- <a href="https://women-in-numbers-europe-4.sites.uu.nl/project-groups/" target="_blank">Women in Numbers - 4</a>, Project Group: Abstract Groups in Cryptography, Utrecht University, Netherlands. 
 
 ## Talks and slides
 
