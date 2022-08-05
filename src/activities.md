@@ -14,7 +14,7 @@ layout: markdown
 - Executive committee member of [**Austrian Association of Women in Mathematics (A<sup>2</sup>WiM)**](https://www.a2wim.net/about){target="_blank"}.
     - Main organizer of the film screening _Secrets of the Surface_ on May 12th, 2022. 
 
-- Core team member of [**Amicable Scientists**](https://amicablescientists.org/author/vishnupriya/){target="_blank"}.
+- Core team member of [**Amicable Scientists**](https://amicablescientists.org){target="_blank"}.
     - (Feb 2019) Gave a talk on _Mathematics and other career paths_ to 11th Grade students at schools in Belpahar, India as a part of outreach. 
     - (December 2018) Gave a talk on _Fermat’s last theorem, elliptic curves and cryptography_ to master's students in mathematics at St. Joseph’s College, Bangalore.
 
