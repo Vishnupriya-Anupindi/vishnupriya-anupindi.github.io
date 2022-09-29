@@ -5,9 +5,10 @@ layout: markdown
 ---
 
 ## Teaching
-- **Teaching Assistant** at Johannes Kepler University, Linz for the following courses. Created problem sets for undergraduate students and taught weekly exercise classes. 
-    - October 2020 - February 2021, _Mathematics for Physics I (Analysis of one variable)_ in **German**.
+- **Teaching Assistant** at Johannes Kepler University, Linz for the following courses. It includes creating problem sets for undergraduate students and teaching weekly **exercise** classes. 
+    - October 2022 - February 2023, [_Mathematics for AI_](https://www.kusss.jku.at/kusss/selectcoursegroup.action?coursegroupid=13371&showdetails=368461&courseclassid=44796#lv368461){target="_blank"} in **English**.
     - March 2021 - September 2021, _Mathematics for Physics II (Linear Algebra)_ in **German**.
+    - October 2020 - February 2021, _Mathematics for Physics I (Analysis of one variable)_ in **German**.
 
 ## Organization
 
