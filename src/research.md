@@ -32,6 +32,7 @@ layout: markdown
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
 | May 2022 | Workshop on Integer Partitions | Nesin Mathematics Village, Turkey |
 | February 2021 | 7th International Conference on Uniform Distribution Theory | Online (Linz, Austria) |
 | February 2021 | First Austrian Day of women in mathematics | Online (Austria) |
