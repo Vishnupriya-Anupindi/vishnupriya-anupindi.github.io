@@ -10,12 +10,6 @@ layout: markdown
 2. **V. Anupindi, L. Mérai** (2022, online: 2021) _Linear complexity of some sequences derived from hyperelliptic curves of genus 2._ Cryptography and Communications, Bd. 14 (1), S. 117--134. [doi:10.1007/s12095-021-00521-y](https://doi.org/10.1007/s12095-021-00521-y){target="_blank"}, [arXiv](https://arxiv.org/abs/2102.02605){target="_blank"}
 {reversed=reversed}
 
-
-
-## Upcoming conferences
-
-- <a href="https://women-in-numbers-europe-4.sites.uu.nl/project-groups/" target="_blank">Women in Numbers - 4</a>, Project Group: Abstract Groups in Cryptography, Utrecht University, Netherlands. 
-
 ## Talks and slides
 
 |       |                  |           |
