@@ -8,7 +8,7 @@ layout: markdown
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
-| 2019 - Current | Doctoral studies in Mathematics | JKU-Linz, Austria |
+| 2019 - 2023 | PhD in Mathematics | JKU-Linz, Austria |
 | 2015 - 2018 | MSc in Mathematics International (Specialization: Algebra and Number theory) | TU Kaiserslautern, Germany |
 | 2012 - 2015 | BSc in Physics, Chemistry, Mathematics (Triple Major) | St. Joseph's College, Bangalore, India |
 
@@ -16,6 +16,7 @@ layout: markdown
 
 |       |                  |
 | ----- | ---------------- |
-| 2019 - Current | Research scientist at RICAM, Linz. |
+| Feb 2023 - Current | Postdoc Research scientist at RICAM, Linz. |
+| 2019 - Jan 2023 | PhD Research scientist at RICAM, Linz. |
 
 You can find a detailed CV <a href="{{ '/assets/Anupindi_CV.pdf' | url }}" target="_blank">here</a>.

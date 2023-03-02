@@ -5,7 +5,7 @@ layout: markdown
 
 ## Publications
 
-1. **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2023) _On homomorphic encryption using abelian groups: Classical security analysis_, [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
+1. **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2023) _On homomorphic encryption using abelian groups: Classical security analysis_,(submitted) [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
 
 2. **V. Anupindi** (2022) _Linear complexity of sequences on Koblitz curves of genus 2._ Uniform Distribution Theory 17, no. 2, 1-20. [link](http://pcwww.liv.ac.uk/~karpenk/JournalUDT/vol17/no2/01_Anupindi_UDT_revised_pdf.pdf){target="_blank"}, [arXiv](https://arxiv.org/abs/2203.13523){target="_blank"}
 
@@ -28,6 +28,7 @@ layout: markdown
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
 | August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
 | May 2022 | Workshop on Integer Partitions | Nesin Mathematics Village, Turkey |
 | February 2021 | 7th International Conference on Uniform Distribution Theory | Online (Linz, Austria) |
