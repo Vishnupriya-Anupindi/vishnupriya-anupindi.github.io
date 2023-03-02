@@ -16,6 +16,7 @@ Since February 2023, I am a **postdoc researcher in mathematics** at the [ _Aust
 </div>
 
 My current research interest includes problems in information-based complexity. 
+
 I am also interested in problems in number theory motivated by cryptography, in particular I am interested in:
 - Pseudorandom sequences from hyperelliptic curves
 - Elliptic curves and abelian varieties over finite fields,
