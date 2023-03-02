@@ -6,15 +6,17 @@ layout: markdown
 
 ## Teaching
 - **Teaching Assistant** at Johannes Kepler University, Linz for the following courses. The job includes creating problem sets for undergraduate students and teaching weekly **exercise** classes. 
-- Current courses:
-    - October 2022 - February 2023, _Mathematics for AI_ in **English**.
 - Past courses:
+    - October 2022 - February 2023, _Mathematics for AI_ in **English**.
     - March 2021 - September 2021, _Mathematics for Physics II (Linear Algebra)_ in **German**.
     - October 2020 - February 2021, _Mathematics for Physics I (Analysis of one variable)_ in **German**.
 
 ## Organization
 
+- (Feb 2023) Co-organizer of the [**Third Austrian Day of Women in Mathematics (ADWiM)**](https://sites.google.com/view/adwim-2023/home){target="_blank"}.
+
 - Executive committee member of [**Austrian Association of Women in Mathematics (A<sup>2</sup>WiM)**](https://www.a2wim.net/about){target="_blank"}.
+    - Co-organizer of the [virtual **tea time** meetings](https://sites.google.com/view/a2wim/our-activities/projects#h.soyo1ot3whhb).  
     - Main organizer of the film screening _Secrets of the Surface_ on May 12th, 2022. 
 
 - Core team member of [**Amicable Scientists**](https://amicablescientists.org){target="_blank"}.
