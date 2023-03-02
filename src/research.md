@@ -5,9 +5,11 @@ layout: markdown
 
 ## Publications
 
-1. **V. Anupindi** (2022) _Linear complexity of sequences on Koblitz curves of genus 2._ Uniform Distribution Theory 17, no. 2, 1-20. [link](http://pcwww.liv.ac.uk/~karpenk/JournalUDT/vol17/no2/01_Anupindi_UDT_revised_pdf.pdf){target="_blank"}, [arXiv](https://arxiv.org/abs/2203.13523){target="_blank"}
+1. **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2023) _On homomorphic encryption using abelian groups: Classical security analysis_, [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
 
-2. **V. Anupindi, L. Mérai** (2022, online: 2021) _Linear complexity of some sequences derived from hyperelliptic curves of genus 2._ Cryptography and Communications, Bd. 14 (1), S. 117--134. [doi:10.1007/s12095-021-00521-y](https://doi.org/10.1007/s12095-021-00521-y){target="_blank"}, [arXiv](https://arxiv.org/abs/2102.02605){target="_blank"}
+2. **V. Anupindi** (2022) _Linear complexity of sequences on Koblitz curves of genus 2._ Uniform Distribution Theory 17, no. 2, 1-20. [link](http://pcwww.liv.ac.uk/~karpenk/JournalUDT/vol17/no2/01_Anupindi_UDT_revised_pdf.pdf){target="_blank"}, [arXiv](https://arxiv.org/abs/2203.13523){target="_blank"}
+
+3. **V. Anupindi, L. Mérai** (2022, online: 2021) _Linear complexity of some sequences derived from hyperelliptic curves of genus 2._ Cryptography and Communications, Bd. 14 (1), S. 117--134. [doi:10.1007/s12095-021-00521-y](https://doi.org/10.1007/s12095-021-00521-y){target="_blank"}, [arXiv](https://arxiv.org/abs/2102.02605){target="_blank"}
 {reversed=reversed}
 
 ## Talks and slides
