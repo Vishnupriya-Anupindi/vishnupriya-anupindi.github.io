@@ -31,7 +31,7 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
-| August 2023 | Research visit with Dr. Chloe Martindale | University of Bristol, United Kingdom |
+| August 2023 | Research visit at University of Bristol visiting Dr. Chloe Martindale | University of Bristol, United Kingdom |
 | June 2023 | FoCM 2023 (Poster presentation) | Sorbonne université, Paris, France |
 | February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
 | August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
