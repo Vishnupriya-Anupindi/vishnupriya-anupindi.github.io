@@ -19,4 +19,4 @@ layout: markdown
 | Feb 2023 - Current | Postdoc Research scientist at RICAM, Linz. |
 | 2019 - Jan 2023 | PhD Research scientist at RICAM, Linz. |
 
-You can find a detailed CV <a href="{{ '/assets/Anupindi_CV.pdf' | url }}" target="_blank">here</a>.
+<!--- You can find a detailed CV <a href="{{ '/assets/Anupindi_CV.pdf' | url }}" target="_blank">here</a> --->
