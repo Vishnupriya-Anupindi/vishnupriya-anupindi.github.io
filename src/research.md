@@ -15,10 +15,11 @@ layout: markdown
 ## Thesis
 PhD thesis [Linear complexity of some sequences derived from hyperelliptic curves of genus 2](https://epub.jku.at/obvulihs/content/pageview/8307624){target="_blank"}
 
-## Talks and slides
+## Talks, slides and research visits
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| August 2023 | Research visit at the University of Bristol, visiting Dr. Chloe Martindale | Bristol, United Kingdom |
 | July 2022 |  [Pseudorandom sequences from HEC of genus 2](https://vishnupriya-anupindi.github.io/Slides/Anupindi_HEC_2022/index.html) | [Coding theory and cryptography conference, Zurich, Switzerland](https://www.math.uzh.ch/aa/index.php?id=32) |
 | July 2022 |  Pseudorandom sequences from HEC of genus 2 | [Number Theory Conference 2022, Debrecen, Hungary](https://ntc2020.math.unideb.hu/en) |
 | July 2022 |  Pseudorandom sequences from HEC of genus 2 | [MCQMC 2022, Linz, Austria](https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/) |
@@ -31,7 +32,6 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
-| August 2023 | Research visit at University of Bristol visiting Dr. Chloe Martindale | University of Bristol, United Kingdom |
 | June 2023 | FoCM 2023 (Poster presentation) | Sorbonne université, Paris, France |
 | February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
 | August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
