@@ -15,7 +15,7 @@ Since February 2023, I am a **postdoc researcher in mathematics** at the [ _Aust
 <img class="mx-auto max-w-[12em]" src="Vishnu_dp.jpg">
 </div>
 
-My current research interest includes problems in information-based complexity. 
+My current research interest includes problems in information-based complexity, digital nets and sequences and its relation to coding theory. 
 
 I am also interested in problems in number theory motivated by cryptography, in particular I am interested in:
 - Pseudorandom sequences from hyperelliptic curves
