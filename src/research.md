@@ -12,6 +12,9 @@ layout: markdown
 3. **V. Anupindi, L. Mérai** (2022, online: 2021) _Linear complexity of some sequences derived from hyperelliptic curves of genus 2._ Cryptography and Communications, Bd. 14 (1), S. 117--134. [doi:10.1007/s12095-021-00521-y](https://doi.org/10.1007/s12095-021-00521-y){target="_blank"}, [arXiv](https://arxiv.org/abs/2102.02605){target="_blank"}
 {reversed=reversed}
 
+## Thesis
+PhD thesis [Linear complexity of some sequences derived from hyperelliptic curves of genus 2](https://epub.jku.at/obvulihs/content/pageview/8307624){target="_blank"}
+
 ## Talks and slides
 
 |       |                  |           |
@@ -28,6 +31,8 @@ layout: markdown
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| August 2023 | Research visit with Dr. Chloe Martindale | University of Bristol, United Kingdom |
+| June 2023 | FoCM 2023 (Poster presentation) | Sorbonne université, Paris, France |
 | February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
 | August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
 | May 2022 | Workshop on Integer Partitions | Nesin Mathematics Village, Turkey |
