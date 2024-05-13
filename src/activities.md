@@ -32,4 +32,4 @@ layout: markdown
 
 ![](ADWIM_24.jpg)
 
->  <a href="https://sites.google.com/view/adwim2024/home" target="_blank">4th Austrian Day of Women in Mathematics</a> in Linz, Austria.
+>  Chair organizer for the <a href="https://sites.google.com/view/adwim2024/home" target="_blank">4th Austrian Day of Women in Mathematics</a> in Linz, Austria.
