@@ -13,7 +13,7 @@ layout: markdown
 
 ## Organization
 
-- (Feb 2024) Chair organizer of the Fourth Austrian Day of Women in Mathematics (ADWiM) held in Linz from 21st - 22nd February 2024. The event was a huge success, with around 90 registered participants. 
+- (Feb 2024) Chair organizer of the [**Fourth Austrian Day of Women in Mathematics (ADWiM)**](https://sites.google.com/view/adwim2024/home){target="_blank"} held in Linz from 21st - 22nd February 2024. The event was a huge success, with around 90 registered participants. 
 - (Feb 2023) Co-organizer of the [**Third Austrian Day of Women in Mathematics (ADWiM)**](https://sites.google.com/view/adwim-2023/home){target="_blank"}.
 
 - Executive committee member of [**Austrian Association of Women in Mathematics (A<sup>2</sup>WiM)**](https://www.a2wim.net/about){target="_blank"}.
