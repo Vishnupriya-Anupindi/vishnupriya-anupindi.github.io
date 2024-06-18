@@ -26,7 +26,7 @@ layout: markdown
 
 ## Other
 
-- I use [MyPaintEdSlides](https://homepage.univie.ac.at/steffen.plunder/blog/posts/mypaintedslides/){target="_blank"} for my presentations.
+- I use [MyPaintEdSlides](https://steffenpl.github.io/blog/posts/mypaintedslides/){target="_blank"} for my presentations.
 
 ---
 
