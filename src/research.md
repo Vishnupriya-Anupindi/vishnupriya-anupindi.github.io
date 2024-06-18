@@ -4,7 +4,7 @@ layout: markdown
 ---
 
 ## Preprints
-- **V. Anupindi, P.Kritzer** (2024) _Column reduced digital nets_, (submitted) [arXiv](https://arxiv.org/abs/2406.10850){target="_blank"}
+- **V. Anupindi, P. Kritzer** (2024) _Column reduced digital nets_, (submitted) [arXiv](https://arxiv.org/abs/2406.10850){target="_blank"}
 
 - **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2023) _On homomorphic encryption using abelian groups: Classical security analysis_,(submitted) [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
 
