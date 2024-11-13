@@ -54,6 +54,7 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 | September 2024 | Workshop on Quantum Computing and Quantum Cryptography | Nagoya University, Japan |
 | August 2024 | [Math PQC](https://www.esat.kuleuven.be/cosic/events/math-pqc/) (Poster presentation) | Eötvös Loránd University, Budapest, Hungary |
 | June 2024 | Workshop on the Occasion of Harald Niederreiter's 80th Birthday | RICAM Austrian Academy of Sciences, Linz, Austria |
+| February 2024 | Fourth Austrian Day of women in mathematics (chair-organizer) | RICAM Austrian Academy of Sciences, Linz, Austria |
 | June 2023 | FoCM 2023 (Poster presentation) | Sorbonne université, Paris, France |
 | February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
 | August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
