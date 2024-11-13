@@ -51,7 +51,7 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
-| September 2024 | Workshop on Quantum Computing and Quantum Cryptography | Nagoya University, Nagoya, Japan |
+| September 2024 | Workshop on Quantum Computing and Quantum Cryptography | Nagoya University, Japan |
 | August 2024 | [Math PQC](https://www.esat.kuleuven.be/cosic/events/math-pqc/) (Poster presentation) | Eötvös Loránd University, Budapest, Hungary |
 | June 2023 | FoCM 2023 (Poster presentation) | Sorbonne université, Paris, France |
 | February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
