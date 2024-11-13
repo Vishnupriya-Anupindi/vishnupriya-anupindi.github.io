@@ -22,6 +22,11 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| October 2024 | Pseudorandom sequences: Applications, quality measures and constructions. | Seminar talk in Prof. Le Gall's group , Nagoya University, Japan |
+| October 2024 | Properties of pseudorandom numbers from genus 2 curves. | Seminar talk at IMI Kyushu University, Itoshima, Japan |
+| September 2024 | On the linear complexity profile of some sequences constructed from curves.  | Seminar talk in Prof Takagi's group, University of Tokyo, Japan |
+| September 2024 | Quality parameter for reduced digital nets | [JMCQMC](https://sites.google.com/view/jmcqmc/%E3%83%9B%E3%83%BC%E3%83%A0/jmcqmc02?authuser=0), University of Tokyo, Japan |
+| August 2024 | Column reduced digital nets (online) | [MCQMC 2024](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), Waterloo, Canada |
 | December 2023 | Digital Nets | Linz Algebra Research Day, Linz, Austria |
 | August 2023 | Research visit at the University of Bristol, visiting Dr. Chloe Martindale | Bristol, United Kingdom |
 | July 2022 |  [Pseudorandom sequences from HEC of genus 2](https://vishnupriya-anupindi.github.io/Slides/Anupindi_HEC_2022/index.html) | [Coding theory and cryptography conference, Zurich, Switzerland](https://www.math.uzh.ch/aa/index.php?id=32) |
