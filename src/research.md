@@ -6,9 +6,11 @@ layout: markdown
 ## Preprints
 - **V. Anupindi, P. Kritzer** (2024) _Column reduced digital nets_, (submitted) [arXiv](https://arxiv.org/abs/2406.10850){target="_blank"}
 
-- **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2023) _On homomorphic encryption using abelian groups: Classical security analysis_,(submitted) [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
+
 
 ## Publications
+
+- **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2024, online 2023) _On homomorphic encryption using abelian groups: Classical security analysis_, [doi:10.1007/978-3-031-52163-8](https://doi.org/10.1007/978-3-031-52163-8), [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
 
 - **V. Anupindi** (2022) _Linear complexity of sequences on Koblitz curves of genus 2._ Uniform Distribution Theory 17, no. 2, 1-20. [link](http://pcwww.liv.ac.uk/~karpenk/JournalUDT/vol17/no2/01_Anupindi_UDT_revised_pdf.pdf){target="_blank"}, [arXiv](https://arxiv.org/abs/2203.13523){target="_blank"}
 
@@ -18,7 +20,16 @@ layout: markdown
 ## Thesis
 PhD thesis [Linear complexity of some sequences derived from hyperelliptic curves of genus 2](https://epub.jku.at/obvulihs/content/pageview/8307624){target="_blank"}
 
-## Talks, slides and research visits
+## Research visits
+
+|       |                  |           |
+| ----- | ---------------- | --------- |
+| 21st September- 26th October 2024  | Research visit at Prof. Francois Le Gall's group | Nagoya University, Japan |
+| 10th - 11th October 2024 | Research visit at Prof. Koji Nuida's group | IMI Kyushu University, Itoshima, Japan |
+| 17th - 20th September 2024 | Research visit at Prof. Takashi Goda's group | University of Tokyo, Japan |
+| 14th - 18th August 2023 | Research visit at Dr. Chloe Martindale's group | University of Bristol, United Kingdom |
+
+## Talks and slides
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
@@ -28,7 +39,6 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 | September 2024 | Quality parameter for reduced digital nets | [JMCQMC](https://sites.google.com/view/jmcqmc/%E3%83%9B%E3%83%BC%E3%83%A0/jmcqmc02?authuser=0), University of Tokyo, Japan |
 | August 2024 | Column reduced digital nets (online) | [MCQMC 2024](https://uwaterloo.ca/monte-carlo-methods-scientific-computing-conference/), Waterloo, Canada |
 | December 2023 | Digital Nets | Linz Algebra Research Day, Linz, Austria |
-| August 2023 | Research visit at the University of Bristol, visiting Dr. Chloe Martindale | Bristol, United Kingdom |
 | July 2022 |  [Pseudorandom sequences from HEC of genus 2](https://vishnupriya-anupindi.github.io/Slides/Anupindi_HEC_2022/index.html) | [Coding theory and cryptography conference, Zurich, Switzerland](https://www.math.uzh.ch/aa/index.php?id=32) |
 | July 2022 |  Pseudorandom sequences from HEC of genus 2 | [Number Theory Conference 2022, Debrecen, Hungary](https://ntc2020.math.unideb.hu/en) |
 | July 2022 |  Pseudorandom sequences from HEC of genus 2 | [MCQMC 2022, Linz, Austria](https://www.ricam.oeaw.ac.at/events/conferences/mcqmc2022/) |
@@ -41,6 +51,7 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+
 | June 2023 | FoCM 2023 (Poster presentation) | Sorbonne université, Paris, France |
 | February 2023 | Third Austrian Day of women in mathematics (co-organizer) | Online (Austria) |
 | August 2022 | Women in Numbers in Europe 4 | Utrecht University, Netherlands |
