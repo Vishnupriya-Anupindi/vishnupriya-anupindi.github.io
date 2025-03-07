@@ -33,6 +33,8 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| March 2025 | Pseudorandom sequences from curves over finite fields. | [Number Theory Browning Group Working Seminar, ISTA, Austria](https://number-theory.pages.ist.ac.at/) |
+| February 2025 |  Properties of reduced digital nets | [Fifth Austrian Day of women in mathematics, TU Vienna, Austria](https://www.tuwien.at/en/mg/femma/adwim-2025) |
 | October 2024 | Pseudorandom sequences: Applications, quality measures and constructions. | Seminar talk in Prof. Le Gall's group , Nagoya University, Japan |
 | October 2024 | Properties of pseudorandom numbers from genus 2 curves. | Seminar talk at IMI Kyushu University, Itoshima, Japan |
 | September 2024 | On the linear complexity profile of some sequences constructed from curves.  | Seminar talk in Prof Takagi's group, University of Tokyo, Japan |
@@ -51,6 +53,7 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| January 2025 | Graz-ISTA Number Theory Days | TU Graz, Austria |
 | September 2024 | Workshop on Quantum Computing and Quantum Cryptography | Nagoya University, Japan |
 | August 2024 | [Math PQC](https://www.esat.kuleuven.be/cosic/events/math-pqc/) (Poster presentation) | Eötvös Loránd University, Budapest, Hungary |
 | June 2024 | Workshop on the Occasion of Harald Niederreiter's 80th Birthday | RICAM Austrian Academy of Sciences, Linz, Austria |
