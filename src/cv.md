@@ -22,3 +22,10 @@ layout: markdown
 
 
 <!--- You can find a detailed CV <a href="{{ '/assets/Anupindi_CV.pdf' | url }}" target="_blank">here</a> --->
+
+
+---
+
+![](conference_nmv.jpg)
+
+> Group photo with the participants of <a href="https://nesinkoyleri.org/en/events/2022-summer-school-in-theory-of-partitions/" target="_blank">Workshop on Integer Partitions</a> at the Nesin Mathematics Village, Turkey.
