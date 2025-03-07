@@ -26,6 +26,5 @@ layout: markdown
 
 ---
 
-![](conference_nmv.jpg)
+![](Talk_pic.jpg)
 
-> Group photo with the participants of <a href="https://nesinkoyleri.org/en/events/2022-summer-school-in-theory-of-partitions/" target="_blank">Workshop on Integer Partitions</a> at the Nesin Mathematics Village, Turkey.
