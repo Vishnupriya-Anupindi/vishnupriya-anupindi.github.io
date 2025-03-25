@@ -38,7 +38,7 @@ E-Mail: <a href="mailto:vishnupriya.anupindi@ricam.oeaw.ac.at">vishnupriya.anupi
 
 ## Publications
 
-- **V. Anupindi, P. Kritzer** (2025) _Column reduced digital nets._ Numer Algor (2025). [link](https://doi.org/10.1007/s11075-025-02050-8){target="_blank"}
+- **V. Anupindi, P. Kritzer** (2025) _Column reduced digital nets._ Numerical Algorithms (2025). [link](https://doi.org/10.1007/s11075-025-02050-8){target="_blank"}
 
 - **E. Agathocleous, V. Anupindi, A. Bachmayr, C. Martindale, R. Y. N. Nchiwo, M. Stanojkovski** (2024, online 2023) _On homomorphic encryption using abelian groups: Classical security analysis_, [doi:10.1007/978-3-031-52163-8](https://doi.org/10.1007/978-3-031-52163-8){target="_blank"}, [arXiv](https://arxiv.org/abs/2302.12867){target="_blank"}, [ePrint](https://eprint.iacr.org/2023/304){target="_blank"}
 
