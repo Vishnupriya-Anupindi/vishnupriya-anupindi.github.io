@@ -9,7 +9,7 @@ layout: markdown
 <img src="Vishnu_dp.jpg">
 </div>
 
-I am currently a **postdoc researcher in mathematics** at the [ _University of Cantabria_](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=800){target="_blank"} in Santander, Spain, in the group [_Algorithmic Mathematics and Cryptography_](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=800). 
+I am currently a **postdoc researcher in mathematics** at the [ _University of Cantabria_](https://web.unican.es/portal-investigador/departamentos/detalle-departamento?d=021){target="_blank"} in Santander, Spain, in the group [_Algorithmic Mathematics and Cryptography_](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=800). 
 
 
 Previously, I was a postdoc in the [ _Austrian Academy of Sciences, RICAM_](https://www.oeaw.ac.at/ricam/){target="_blank"} in Linz, in the research project [_Multivariate Algorithms and Quasi-Monte Carlo Methods_](https://www.oeaw.ac.at/ricam/research/groups/group-kritzer). 
