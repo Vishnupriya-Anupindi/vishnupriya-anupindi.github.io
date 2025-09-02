@@ -9,15 +9,16 @@ layout: markdown
 <img src="Vishnu_dp.jpg">
 </div>
 
-Since February 2023, I am a **postdoc researcher in mathematics** at the [ _Austrian Academy of Sciences, RICAM_](https://www.oeaw.ac.at/ricam/){target="_blank"} in Linz, in the research project [_Multivariate Algorithms and Quasi-Monte Carlo Methods_](https://www.oeaw.ac.at/ricam/research/groups/group-kritzer). 
+I am currently a **postdoc researcher in mathematics** at the [ _University of Cantabria_](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=800){target="_blank"} in Santander, Spain, in the group [_Algorithmic Mathematics and Cryptography_](https://web.unican.es/portal-investigador/grupos/detalle-grupo?g=800). 
+
+
+Previously, I was a postdoc in the [ _Austrian Academy of Sciences, RICAM_](https://www.oeaw.ac.at/ricam/){target="_blank"} in Linz, in the research project [_Multivariate Algorithms and Quasi-Monte Carlo Methods_](https://www.oeaw.ac.at/ricam/research/groups/group-kritzer). 
 
 <div class="container md:hidden drop-shadow-xl">
 <img class="mx-auto max-w-[12em]" src="Vishnu_dp.jpg">
 </div>
 
-My current research interest includes problems in information-based complexity, digital nets and sequences and its relation to coding theory. 
-
-I am also interested in problems in number theory motivated by cryptography, in particular I am interested in:
+I am interested in problems in number theory motivated by cryptography, in particular I am interested in:
 - Pseudorandom sequences from hyperelliptic curves
 - Elliptic curves and abelian varieties over finite fields,
 - Finite fields,
