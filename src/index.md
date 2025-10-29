@@ -31,8 +31,11 @@ I also enjoy teaching.
 ## Contact
 
 <small>
-E-Mail: <a href="mailto:vishnupriya.anupindi@ricam.oeaw.ac.at">vishnupriya.anupindi@ricam.oeaw.ac.at</a>
+📧: <a href="mailto:vishnupriya.anupindi@unican.es">vishnupriya.anupindi@unican.es</a>
 </small>
+
+## Profiles
+🔗: <a href="https://orcid.org/0000-0002-5404-790X">ORCID</a>, <a href="https://arxiv.org/search/math?searchtype=author&query=Anupindi,+V">arXiv</a>, <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=292695">Math Genealogy Project</a>
 
 ## Preprints
 - **V. Anupindi, P. Kritzer** (2025) _Reduced digital nets_, (submitted) [arXiv](https://arxiv.org/abs/2501.13659){target="_blank"}
