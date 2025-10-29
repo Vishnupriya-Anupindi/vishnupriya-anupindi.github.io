@@ -24,7 +24,8 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
-| 21st September- 26th October 2024  | Research visit at Prof. Francois Le Gall's group | Nagoya University, Japan |
+| 9th April - 19th April 2025  | Research visit at Prof. Domingo Gómez Pérez's group | University of Cantabria, Spain |
+| 21st September - 26th October 2024  | Research visit at Prof. Francois Le Gall's group | Nagoya University, Japan |
 | 10th - 11th October 2024 | Research visit at Prof. Koji Nuida's group | IMI Kyushu University, Itoshima, Japan |
 | 17th - 20th September 2024 | Research visit at Prof. Takashi Goda's group | University of Tokyo, Japan |
 | 14th - 18th August 2023 | Research visit at Dr. Chloe Martindale's group | University of Bristol, United Kingdom |
