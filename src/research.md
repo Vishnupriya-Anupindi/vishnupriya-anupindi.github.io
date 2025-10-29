@@ -53,6 +53,9 @@ PhD thesis [Linear complexity of some sequences derived from hyperelliptic curve
 
 |       |                  |           |
 | ----- | ---------------- | --------- |
+| September 2025 | Leuven Isogeny Days 6 | KU Leuven, Belgium |
+| May 2025 | Eurocrypt: The Isogeny Club Brainstorm Days | Madrid, Spain |
+| April 2025 | The SQIparty: A Workshop on Isogeny-Crypto | Lleida, Spain |
 | January 2025 | Graz-ISTA Number Theory Days | TU Graz, Austria |
 | September 2024 | Workshop on Quantum Computing and Quantum Cryptography | Nagoya University, Japan |
 | August 2024 | [Math PQC](https://www.esat.kuleuven.be/cosic/events/math-pqc/) (Poster presentation) | Eötvös Loránd University, Budapest, Hungary |
