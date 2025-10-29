@@ -5,7 +5,17 @@ layout: markdown
 ---
 
 ## Teaching
-- **Teaching Assistant** at Johannes Kepler University, Linz for the following courses. The job includes creating problem sets for undergraduate students and teaching weekly **exercise** classes. 
+
+### Seminars
+- I am currently organizing a reading seminar titled *Elliptic curve cryptography in a post quantum paradigm* at the University of Cantabria. We meet every week on Wednesdays. 
+
+### Supervision of theses
+-  Bachelor's thesis by Javier González Colsa, "The BB84 Protocol: Quantum Foundations and Computational Applications in Secure Communication". Ongoing, co-supervising with Domingo Gómez Pérez at the University of Cantabria.
+-  Bachelor's thesis by Sergio Chávez Camarero. Ongoing, co-supervising with Ana Isabel Gómez Pérez at the Universidad Rey Juan Carlos, Madrid.
+-  Bachelor's thesis by Alberto García Sroda. Ongoing, co-supervising with Ana Isabel Gómez Pérez at the Universidad Rey Juan Carlos, Madrid.
+
+### Teaching Assistant
+- I was a teaching assistant at Johannes Kepler University, Linz for the following courses. The job included creating problem sets for undergraduate students and teaching weekly **exercise** classes. 
 - Past courses:
     - October 2022 - February 2023, _Mathematics for AI_ in **English**.
     - March 2021 - September 2021, _Mathematics for Physics II (Linear Algebra)_ in **German**.
