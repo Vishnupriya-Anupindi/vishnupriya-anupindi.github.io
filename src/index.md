@@ -35,7 +35,7 @@ I also enjoy teaching.
 </small>
 
 ## Profiles
-🔗: <a href="https://orcid.org/0000-0002-5404-790X">ORCID</a>, <a href="https://arxiv.org/search/math?searchtype=author&query=Anupindi,+V">arXiv</a>, <a href="https://www.genealogy.math.ndsu.nodak.edu/id.php?id=292695">Math Genealogy Project</a>
+🔗: [ORCID](https://orcid.org/0000-0002-5404-790X){target="_blank"}, [arXiv](https://arxiv.org/search/math?searchtype=author&query=Anupindi,+V){target="_blank"}, [Math Genealogy Project](https://www.genealogy.math.ndsu.nodak.edu/id.php?id=292695){target="_blank"}
 
 ## Preprints
 - **V. Anupindi, P. Kritzer** (2025) _Reduced digital nets_, (submitted) [arXiv](https://arxiv.org/abs/2501.13659){target="_blank"}
