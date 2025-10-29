@@ -31,7 +31,7 @@ I also enjoy teaching.
 ## Contact
 
 <small>
-📧: <a href="mailto:vishnupriya.anupindi@unican.es">vishnupriya.anupindi@unican.es</a>
+📧: vishnupriya.anupindi[at]unican.es
 </small>
 
 ## Profiles
