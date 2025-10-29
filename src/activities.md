@@ -7,7 +7,7 @@ layout: markdown
 ## Teaching
 
 ### Seminars
-- I am currently organizing a reading seminar titled *Elliptic curve cryptography in a post quantum paradigm* at the University of Cantabria. We meet every week on Wednesdays. 
+- I am currently organizing a reading seminar titled *"Elliptic curve cryptography in a post quantum paradigm"* at the University of Cantabria. We meet every week on Wednesdays. 
 
 ### Supervision of theses
 -  Bachelor's thesis by Javier González Colsa, "The BB84 Protocol: Quantum Foundations and Computational Applications in Secure Communication". Ongoing, co-supervising with Domingo Gómez Pérez at the University of Cantabria.
