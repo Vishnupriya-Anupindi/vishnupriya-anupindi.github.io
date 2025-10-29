@@ -28,6 +28,8 @@ I finished my PhD in January 2023 at the [ _Johannes Kepler University_ ](https:
 
 I also enjoy teaching.
 
+I am currently **on the academic job market!**
+
 ## Contact
 
 <small>
