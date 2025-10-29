@@ -8,8 +8,9 @@ layout: markdown
 
 |       |                  |
 | ----- | ---------------- |
-| Feb 2023 - Current | Postdoc Research scientist at RICAM, Linz. |
-| 2019 - Jan 2023 | PhD Research scientist at RICAM, Linz. |
+| Aug 2025 - current | Postdoc Research scientist at University of Cantabria, Santander, Spain. |
+| Feb 2023 - May 2025 | Postdoc Research scientist at RICAM (Austrian Academy of Sciences), Linz, Austria. |
+| 2019 - Jan 2023 | PhD Research scientist at RICAM (Austrian Academy of Sciences), Linz, Austria. |
 
 
 ### Biographical sketch
